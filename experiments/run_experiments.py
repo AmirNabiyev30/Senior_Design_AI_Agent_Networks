@@ -1,6 +1,6 @@
-from Senior_Design_AI_Agent_Networks.environment.wireless_env import WirelessEnvironment
-from Senior_Design_AI_Agent_Networks.agents.single_agent import SingleAgent
-from Senior_Design_AI_Agent_Networks.agents.multi_agent import MultiAgent
+from environment.wireless_env import WirelessEnvironment
+from agents.single_agent import SingleAgent
+from agents.multi_agent import MultiAgent
 
 import numpy as np
 

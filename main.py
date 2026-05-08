@@ -1,5 +1,5 @@
-from Senior_Design_AI_Agent_Networks.experiments.run_experiments import run_experiment
-from Senior_Design_AI_Agent_Networks.visualization.graphs import plot_results
+from experiments.run_experiments import run_experiment
+from visualization.graphs import plot_results
 
 noise_levels = [0.1, 0.3, 0.5]
 
